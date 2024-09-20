@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    background: rgb(69, 70, 71);
+}
+
+.container{
+    background: rgb(69, 70, 71);
+    box-sizing: border-box;
+}
+
+.container-main{
+    height: 98vh;
+    display: flex;
+}
+
+.image-side{
+    width: 45vw;
+    box-sizing: border-box;
+}
+
+img{
+    width: 74%;
+    height: 90%;
+    margin-left: 13%;
+    margin-top: 5%;
+    border-radius: 3%;
+}
+
+.text-side{
+    width: 55vw;
+    box-sizing: border-box;
+    padding-top: 4%;
+    padding-left: 2%;
+}
+
+h1{
+    font-size: 4.5rem;
+    margin-bottom: 3%;
+    font-family: 'Patrick Hand', cursive;
+    color: antiquewhite;
+}
+
+p{
+    margin-bottom: 4%;
+    text-align: justify;
+    font-size: 1.5rem;
+    width: 85%;
+    font-family: 'Patrick Hand', cursive;
+    color: antiquewhite;
+}
