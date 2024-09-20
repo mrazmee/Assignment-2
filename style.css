@@ -16,6 +16,7 @@ body{
 .container-main{
     height: 98vh;
     display: flex;
+    border: 5px dashed antiquewhite;
 }
 
 .image-side{
